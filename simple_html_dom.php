@@ -31,10 +31,13 @@
  * Licensed under The MIT License
  * Redistributions of files must retain the above copyright notice.
  *
+ *
+ *
  * @author S.C. Chen <me578022@gmail.com>
  * @author John Schlick
  * @author Rus Carroll
- * @version 1.5 ($Rev: 210 $)
+ * @author Vadim Protsenko (dwsVad) <dws.vad@gmail.com>
+ * @version 1.5.0.1
  * @package PlaceLocalInclude
  * @subpackage simple_html_dom
  */
